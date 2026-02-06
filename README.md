@@ -64,4 +64,3 @@ Returns:
 ```json
 { "status": "ok" }
 ```
->>>>>>> ff9fb03 ([ADD]Initial Commit)
