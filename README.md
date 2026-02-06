@@ -1,7 +1,5 @@
 ---
 title: AI Deal Sentiment API
-<<<<<<< HEAD
-emoji: 🐨
 colorFrom: gray
 colorTo: purple
 sdk: docker
